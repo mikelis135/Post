@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Post</string>
+    <string name="pull_refresh">Oops, could not get posts, pull to refresh</string>
+</resources>
