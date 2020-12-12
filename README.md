@@ -1,8 +1,10 @@
-# Post App
+# A simple app that gets posts from the server and displays it
 
 Kotlin
 
 MVVM Architecture
+
+Repository pattern
 
 Retrofit for Api Call
 
